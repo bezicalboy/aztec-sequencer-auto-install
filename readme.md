@@ -19,6 +19,7 @@ No Docker. No drama. Just `bash` + `curl`.
 
 ```bash
 curl -fsSL https://raw.githubusercontent.com/hellarxn/aztec-node/main/aztec.sh | bash
+```
 Or if you downloaded it:
 
 bash
