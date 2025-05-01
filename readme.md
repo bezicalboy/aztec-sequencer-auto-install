@@ -1,4 +1,4 @@
-# 🌀 HELLARXN Aztec Sequencer Installer
+# Aztec Sequencer Installer
 
 hay
 
