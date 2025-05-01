@@ -1,6 +1,6 @@
 # 🌀 HELLARXN Aztec Sequencer Installer
 
-No Docker. No drama. Just `bash` + `curl`.
+hay
 
 ## ⚡ What This Does
 
