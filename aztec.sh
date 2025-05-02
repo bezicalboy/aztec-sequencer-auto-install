@@ -53,8 +53,8 @@ aztec-up alpha-testnet
 
 # ──────── User Input ─────────
 echo -e "\n📋 Fill in your node credentials:"
-read -rp "🔹 ALCHEMY RPC URL (example: https://eth-sepolia.g.alchemy.com/v2/YOUR API KEY ) : " ETH_RPC
-read -rp "🔹 DRPC RPC URL (example: https://lb.drpc.org/ogrpc?network=sepolia&dkey=YOUR API KEY ) : " CONS_RPC
+read -rp "🔹 ALCHEMY RPC URL (example: https://eth-sepolia.g.alchemy.com/v2/YOUR_API_KEY ) : " ETH_RPC
+read -rp "🔹 DRPC BEACON RPC URL (example: https://lb.drpc.org/rest/YOUR_API_KEY/eth-beacon-chain-sepolia ) : " CONS_RPC
 read -rp "🔹 Blob URL (optional): " BLOB_URL
 read -rp "🔐 Validator Private Key: " VALIDATOR_PRIVATE_KEY
 
