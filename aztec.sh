@@ -28,9 +28,9 @@ fi
 aztec-up alpha-testnet
 
 # ─── Prompt User for Config ───────────────────────────────────────────────────
-echo -e "Enter RPC:"
+echo -e "Enter RPC: (make drpc account first plzz)"
 
-read -rp "ALCHEMY SEPOLIA RPC URL: " ETH_RPC
+read -rp "DRPC SEPOLIA RPC URL: " ETH_RPC
 read -rp "DRPC BEACON SEPOLIA RPC URL: " CONS_RPC
 read -rp "Blob Sink URL, just hit enter bro: " BLOB_URL
 read -rp "Private Key with 0x: " VALIDATOR_PRIVATE_KEY
