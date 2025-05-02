@@ -18,5 +18,5 @@ hay
 ## 🚀 Quickstart
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/hellarxn/aztec-node/main/aztec.sh | bash
+curl -fsSL https://raw.githubusercontent.com/bezicalboy/aztec-sequencer-auto-install/refs/heads/main/aztec.sh| bash
 ```
