@@ -1,6 +1,6 @@
 # Aztec Sequencer Installer
 
-hay
+hay freak
 
 ## ⚡ What This Does
 
